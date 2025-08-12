@@ -1,0 +1,22 @@
+README .md:
+This is a file where you can mention the overview of your project or anything taht you want to highlight to someone who is about to look into the project files
+The primary purpose of a README .md file is to provide essential information about a project to users and potential contributors. 
+
+--------------------------------------
+
+. gitignore:
+A . gitignore file is a plain text file used in Git repositories to specify intentionally untracked files that Git should ignore.
+This means that Git will not add these files to the version control system, nor will it track changes made to them.
+
+--------------------------------------
+
+setup .py:
+This files allows you to encapsulate your entiore project as a package which you can use/deploy/implement anywhere else.
+setup .py is a Python script used in Python projects for packaging and distribution. 
+It traditionally serves as the central configuration file for defining project metadata and instructions for building and installing a Python package.
+
+
+
+_ _init_ _.py:
+The _ _init_ _.py file in Python serves as a marker that designates a directory as a Python package.
+The presence of an _ _init_ _.py file (even if empty) signals to Python that the directory should be treated as a package, allowing its modules to be imported.
