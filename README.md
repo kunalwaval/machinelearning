@@ -1,1 +1,1 @@
-*** Machine Learning Prohject Outline ***
+*** Machine Learning Project Outline ***
