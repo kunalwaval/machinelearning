@@ -20,3 +20,30 @@ It traditionally serves as the central configuration file for defining project m
 _ _init_ _.py:
 The _ _init_ _.py file in Python serves as a marker that designates a directory as a Python package.
 The presence of an _ _init_ _.py file (even if empty) signals to Python that the directory should be treated as a package, allowing its modules to be imported.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Steps:
+1. README.md, .gitignore, setup.py, requirememnts.txt, and src folder
+2. Inside src >> __init__.py, then components folder
+3. Inside components >> __init__.py, data_injection.py, data_transformation.py, model_trainer.py, then pipeline folder
+4. Inside pipeline >> __init__.py, train_pipeline.py, predict_pipeline.py
+5. Inside src >> logger.py, exception.py, utils.py
